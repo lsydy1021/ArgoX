@@ -1025,7 +1025,7 @@ $(hint "{
             },
             \"reality\":{
                 \"enabled\":true,
-                \"public_key\":\"I7wMcE9qQdMdpm8RwwXV9tFv6DXTH6YZSad41psBvDE\",
+                \"public_key\":\"${REALITY_PUBLIC}\",
                 \"short_id\":\"\"
             }
         }
@@ -1046,7 +1046,7 @@ $(hint "{
             },
             \"reality\": {
                 \"enabled\": true,
-                \"public_key\": \"I7wMcE9qQdMdpm8RwwXV9tFv6DXTH6YZSad41psBvDE\",
+                \"public_key\": \"${REALITY_PUBLIC}\",
                 \"short_id\": \"\"
             }
         },
